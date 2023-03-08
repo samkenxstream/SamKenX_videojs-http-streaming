@@ -67,7 +67,7 @@
   "devDependencies": {
     "@gkatsev/rollup-plugin-bundle-worker": "^1.0.2",
     "@rollup/plugin-replace": "^2.3.4",
-    "@videojs/generator-helpers": "~2.0.1",
+    "@videojs/generator-helpers": "~3.2.0",
     "d3": "^3.4.8",
     "es5-shim": "^4.5.13",
     "es6-shim": "^0.35.5",
@@ -86,7 +86,7 @@
     "videojs-generate-rollup-config": "~6.1.0",
     "videojs-generator-verify": "~3.0.1",
     "videojs-http-source-selector": "^1.1.6",
-    "videojs-standard": "^8.0.4"
+    "videojs-standard": "^9.0.1"
   },
   "generator-videojs-plugin": {
     "version": "7.6.3"
