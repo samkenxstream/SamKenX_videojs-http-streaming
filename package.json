@@ -76,7 +76,7 @@
     "lodash": "^4.17.4",
     "lodash-compat": "^3.10.0",
     "nomnoml": "^0.3.0",
-    "rollup": "^2.36.1",
+    "rollup": "^3.29.5",
     "shelljs": "^0.8.4",
     "sinon": "^8.1.1",
     "url-toolkit": "^2.2.1",
